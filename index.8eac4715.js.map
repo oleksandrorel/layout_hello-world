@@ -1,0 +1,1 @@
+{"mappings":"ACCA,QAAQ,GAAG,CAAC","sources":["<anon>","src/main.js"],"sourcesContent":["\"use strict\";\nconsole.log(\"script file is enabled!\");\n\n//# sourceMappingURL=index.8eac4715.js.map\n","'use strict';\nconsole.log('script file is enabled!')\n"],"names":["console","log"],"version":3,"file":"index.8eac4715.js.map"}
